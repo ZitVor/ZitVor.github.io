@@ -1,0 +1,16 @@
+:root{
+    --green-saturated: #04BF94;
+    --green-unsaturated:rgba(5, 196, 152, 0.16);
+    --gray-topandfoot:#91A0B6;
+    --gray-time:#ADB8C8;
+    --gray-text:#78787A;
+    --font-size-bitgtitle:48px;
+    --font-size-title:24px;
+    --font-size-subtitle1:18px;
+    --font-size-subtitle2:24px;
+    --font-size-greentitle:32px;
+    --font-size-greensubtitle:24px;
+    --font-size-typical:16px;
+    --padding-container:16px;
+    --size-container:1074px;
+}
